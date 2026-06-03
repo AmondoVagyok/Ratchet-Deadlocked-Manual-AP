@@ -1,0 +1,741 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "DreadZone Station: Advanced Qualifier",
+      "region": "DreadZone Station",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|EMP Grenade|"
+    },
+    {
+      "name": "Receive Starting Weapon 1",
+      "region": "DreadZone Station",
+      "category": [
+        "Starting Weapon"
+      ],
+      "requires": "",
+      "place_item_category": [
+        "Weapons"
+      ]
+    },
+    {
+      "name": "Receive Starting Weapon 2",
+      "region": "DreadZone Station",
+      "category": [
+        "Starting Weapon"
+      ],
+      "requires": "",
+      "place_item_category": [
+        "Weapons"
+      ]
+    },
+    {
+      "name": "DreadZone Station: Grist for the Mill",
+      "region": "DreadZone Station",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "DreadZone Station: The Big Sleep",
+      "region": "DreadZone Station",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Catacrom Four: Valley of Heroes",
+      "region": "Catacrom Four",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|EMP Grenade|"
+    },
+    {
+      "name": "Catacrom Four: On the Prowl",
+      "region": "Catacrom Four",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|EMP Grenade| AND |Swingshot|"
+    },
+    {
+      "name": "Catacrom Four: All Aboard the Landstalker",
+      "region": "Catacrom Four",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Catacrom Four: Rise Up",
+      "region": "Catacrom Four",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Catacrom Four: Hoverbike Madness",
+      "region": "Catacrom Four",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Catacrom Four: Destruction Derby",
+      "region": "Catacrom Four",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Catacrom Four: Monuments of Death",
+      "region": "Catacrom Four",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sarathos: Alien Soil",
+      "region": "Sarathos",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray|"
+    },
+    {
+      "name": "Sarathos: Sarathos Sprint",
+      "region": "Sarathos",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray| AND |Swingshot| AND |EMP Grenade|"
+    },
+    {
+      "name": "Sarathos: Where the Leviathans Roam",
+      "region": "Sarathos",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sarathos: King of the Leviathans",
+      "region": "Sarathos",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray|"
+    },
+    {
+      "name": "Sarathos: Check Me Out",
+      "region": "Sarathos",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Sarathos",
+      "name": "Sarathos: Swamp Fever",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Kronos",
+      "name": "Kronos: Infiltrate the Cathedral",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Cable Launcher| AND |Hacker Ray| AND |Grindboots|"
+    },
+    {
+      "name": "Kronos: Introducing Shellshock",
+      "region": "Kronos",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Cable Launcher| AND |Grindboots|"
+    },
+    {
+      "region": "Kronos",
+      "name": "Kronos: Enemies are Such a Grind",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Swingshot| AND |Grindboots| AND |Dual Vipers|"
+    },
+    {
+      "name": "Kronos: Infiltrate the Cathedral, Part 2",
+      "region": "Kronos",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Swingshot| AND |Hacker Ray| AND |Dual Vipers|"
+    },
+    {
+      "name": "Kronos: Shellshock Returns!",
+      "region": "Kronos",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Kronos",
+      "name": "Kronos: Fight to the Cathedral",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|EMP Grenade| AND |Grindboots| AND |Cable Launcher|"
+    },
+    {
+      "name": "Kronos: Showdown with Shellshock",
+      "region": "Kronos",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Swingshot|"
+    },
+    {
+      "name": "Kronos: Night Flight",
+      "region": "Kronos",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Kronos: Inverted Action",
+      "region": "Kronos",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": "|Hacker Ray|"
+    },
+    {
+      "name": "Kronos: Dark City Arenas",
+      "region": "Kronos",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Avenger Tournament: Manic Speed Demon",
+      "region": "Avenger Tournament",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Avenger Tournament: The Tower of Power",
+      "region": "Avenger Tournament",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Avenger Tournament: Climb the Tower of Power",
+      "region": "Avenger Tournament",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Avenger Tournament: Perfect Chrome Finish",
+      "region": "Avenger Tournament",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Avenger Tournament: Close and Personal",
+      "region": "Avenger Tournament",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shaar: Return to the Deathbowl",
+      "region": "Shaar",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray|"
+    },
+    {
+      "name": "Shaar: Landstalker Stalkin'",
+      "region": "Shaar",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|EMP Grenade|"
+    },
+    {
+      "name": "Shaar: As the Wrench Turns",
+      "region": "Shaar",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|EMP Grenade| AND |Grindboots| AND |Cable Launcher|"
+    },
+    {
+      "name": "Shaar: Assault on the Frozen Tundra",
+      "region": "Shaar",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shaar: Shoot to Kill",
+      "region": "Shaar",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shaar: Whack A Swarmer",
+      "region": "Shaar",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Shaar: Robots in a Barrel",
+      "region": "Shaar",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Orxon: Labyrinth of Death",
+      "region": "Orxon",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray| AND |EMP Grenade|"
+    },
+    {
+      "name": "Orxon: Node Overload",
+      "region": "Orxon",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Orxon: Refinery Ambush",
+      "region": "Orxon",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray|"
+    },
+    {
+      "name": "Orxon: Chains of Villainy",
+      "region": "Orxon",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|EMP Grenade|"
+    },
+    {
+      "name": "Orxon: Swarming the Gauntlet",
+      "region": "Orxon",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Orxon: Scoring with the Blarg",
+      "region": "Orxon",
+      "victory": false,
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Crusader Tournament: Static Deathtrap",
+      "region": "Crusader Tournament",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hunter Mine Launcher|"
+    },
+    {
+      "name": "Crusader Tournament: Marathon",
+      "region": "Crusader Tournament",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Grindboots|"
+    },
+    {
+      "name": "Crusader Tournament: Reactor Battle",
+      "region": "Crusader Tournament",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Crusader Tournament: Zombie Attack",
+      "region": "Crusader Tournament",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Crusader Tournament: Heavy Metal",
+      "region": "Crusader Tournament",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": "|EMP Grenade|"
+    },
+    {
+      "name": "Crusader Tournament: Endzone",
+      "region": "Crusader Tournament",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Valix Belt: Lost and Found",
+      "region": "The Valix Belt",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Cable Launcher| AND |Grindboots|"
+    },
+    {
+      "name": "The Valix Belt: Space Ace",
+      "region": "The Valix Belt",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Valix Belt: Power Up!",
+      "region": "The Valix Belt",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray|"
+    },
+    {
+      "name": "The Valix Belt: Let the Light Shine Through",
+      "region": "The Valix Belt",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Swingshot| AND |Cable Launcher| AND |Grindboots|"
+    },
+    {
+      "name": "The Valix Belt: Time Extension",
+      "region": "The Valix Belt",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Valix Belt: Your Land is my Land",
+      "region": "The Valix Belt",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Torval",
+      "name": "Torval: Hoverbike or Bust",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|EMP Grenade| AND |Hacker Ray|"
+    },
+    {
+      "name": "Torval: Seek and Destroy",
+      "region": "Torval",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Torval: The Turn On",
+      "region": "Torval",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|EMP Grenade|"
+    },
+    {
+      "name": "Torval: Blast of Fresh Air",
+      "region": "Torval",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|EMP Grenade|"
+    },
+    {
+      "name": "Torval: Turret Trouble",
+      "region": "Torval",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Vindicator Tournament",
+      "name": "Vindicator Tournament: Murphy's Law",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Vindicator Tournament: Air Drop",
+      "region": "Vindicator Tournament",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Vindicator Tournament: Eviscerator Battle",
+      "region": "Vindicator Tournament",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Vindicator Tournament: Higher Ground",
+      "region": "Vindicator Tournament",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": "|Grindboots| AND |Swingshot|"
+    },
+    {
+      "name": "Vindicator Tournament: The Corkscrew",
+      "region": "Vindicator Tournament",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": "|Grindboots| AND |Dual Vipers|"
+    },
+    {
+      "region": "Stygia",
+      "name": "Stygia: Junking the Jammers",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Stygia: Energy Collector",
+      "region": "Stygia",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Swingshot| AND |Cable Launcher| AND |Grindboots|"
+    },
+    {
+      "name": "Stygia: Shields Up!",
+      "region": "Stygia",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray|"
+    },
+    {
+      "region": "Stygia",
+      "name": "Stygia: Shield Survival",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Maraxus",
+      "name": "Maraxus: Jail Break",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|EMP Grenade|"
+    },
+    {
+      "name": "Maraxus: Total Control",
+      "region": "Maraxus",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Gravity Boots|"
+    },
+    {
+      "name": "Maraxus: Leave No Man Behind",
+      "region": "Maraxus",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray| AND |EMP Grenade| AND |Gravity Boots| AND |Cable Launcher| AND |Grindboots|"
+    },
+    {
+      "name": "Maraxus: Showdown in Delta Block",
+      "region": "Maraxus",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Maraxus: Speed Trap",
+      "region": "Maraxus",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Maraxus: Spider on a Wire",
+      "region": "Maraxus",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Liberator Tournament",
+      "name": "Liberator Tournament: Swarmer Surprise",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Liberator Tournament",
+      "name": "Liberator Tournament: Accelerator",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Liberator Tournament: Ace Hardlight Battle",
+      "region": "Liberator Tournament",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Liberator Tournament: Dynamite Baseball",
+      "region": "Liberator Tournament",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Liberator Tournament: Less is More",
+      "region": "Liberator Tournament",
+      "category": [
+        "Dread Challenge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghost Station: The Grinding Chase",
+      "region": "Ghost Station",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Grindboots| AND |Dual Vipers|"
+    },
+    {
+      "name": "Ghost Station: Running the Gauntlet",
+      "region": "Ghost Station",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Swingshot|"
+    },
+    {
+      "name": "Ghost Station: Prison Break",
+      "region": "Ghost Station",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray| AND |Gravity Boots|"
+    },
+    {
+      "name": "Ghost Station: Escape",
+      "region": "Ghost Station",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "DreadZone Station Battledome",
+      "name": "DreadZone Station Battledome: Destroy the East Generator",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray| AND |EMP Grenade| AND |Cable Launcher| AND |Grindboots|"
+    },
+    {
+      "name": "DreadZone Station Battledome: Destroy the West Generator",
+      "region": "DreadZone Station Battledome",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Hacker Ray|"
+    },
+    {
+      "name": "DreadZone Station Battledome: Destroy the Central Core",
+      "region": "DreadZone Station Battledome",
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Cable Launcher| AND |Grindboots| AND |EMP Grenade| AND |Hacker Ray|"
+    },
+    {
+      "name": "DreadZone Station Battledome: Defeat Gleeman Vox",
+      "region": "DreadZone Station Battledome",
+      "victory": true,
+      "category": [
+        "Story Mission"
+      ],
+      "requires": "|Ace Hardlight Exterminator Card| AND |Eviscerator Exterminator Card| AND |Reactor Exterminator Card| AND |Shellshock Exterminator Card| AND |Gleeman Vox Exterminator Card| AND |Slugga Exterminator Card|"
+    }
+  ]
+}

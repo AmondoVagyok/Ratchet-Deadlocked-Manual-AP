@@ -1,0 +1,84 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "DreadZone Station": {
+    "starting": true,
+    "connects_to": [
+      "Catacrom Four",
+      "Sarathos",
+      "Kronos",
+      "Avenger Tournament",
+      "Shaar",
+      "Orxon",
+      "Crusader Tournament",
+      "The Valix Belt",
+      "Torval",
+      "Vindicator Tournament",
+      "Stygia",
+      "Maraxus",
+      "Liberator Tournament",
+      "Ghost Station",
+      "DreadZone Station Battledome"
+    ],
+    "requires": ""
+  },
+  "Catacrom Four": {
+    "connects_to": [],
+    "requires": "|Catacrom Four Unlock|"
+  },
+  "Sarathos": {
+    "connects_to": [],
+    "requires": "|Sarathos Unlock|"
+  },
+  "Kronos": {
+    "connects_to": [],
+    "requires": "|Kronos Unlock|"
+  },
+  "Avenger Tournament": {
+    "connects_to": [],
+    "requires": "|Avenger Tournament Unlock|"
+  },
+  "Shaar": {
+    "connects_to": [],
+    "requires": "|Shaar Unlock|"
+  },
+  "Orxon": {
+    "connects_to": [],
+    "requires": "|Orxon Unlock|"
+  },
+  "Crusader Tournament": {
+    "connects_to": [],
+    "requires": "|Crusader Tournament Unlock|"
+  },
+  "The Valix Belt": {
+    "connects_to": [],
+    "requires": "|The Valix Belt Unlock|"
+  },
+  "Torval": {
+    "connects_to": [],
+    "requires": "|Torval Unlock|"
+  },
+  "Vindicator Tournament": {
+    "connects_to": [],
+    "requires": "|Vindicator Tournament Unlock|"
+  },
+  "Stygia": {
+    "connects_to": [],
+    "requires": "|Stygia Unlock|"
+  },
+  "Maraxus": {
+    "connects_to": [],
+    "requires": "|Maraxus Unlock|"
+  },
+  "Liberator Tournament": {
+    "connects_to": [],
+    "requires": "|Liberator Tournament Unlock|"
+  },
+  "Ghost Station": {
+    "connects_to": [],
+    "requires": "|Ghost Station Unlock|"
+  },
+  "DreadZone Station Battledome": {
+    "connects_to": [],
+    "requires": "|DreadZone Station Battledome Unlock|"
+  }
+}

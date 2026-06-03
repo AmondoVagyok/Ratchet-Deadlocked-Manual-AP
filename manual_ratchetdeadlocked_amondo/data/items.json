@@ -1,0 +1,318 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "B6-Obliterator",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Holoshield Launcher",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Hunter Mine Launcher",
+      "category": [
+        "Weapons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Fusion Rifle",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Scorpion Flair",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "The Arbiter",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mini Turret Launcher",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "The Harbinger",
+      "category": [
+        "Weapons",
+        "Harbinger"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Catacrom Four Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sarathos Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Kronos Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Avenger Tournament Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shaar Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Orxon Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Crusader Tournament Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Valix Belt Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Torval Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vindicator Tournament Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stygia Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Maraxus Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Liberator Tournament Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ghost Station Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hacker Ray",
+      "category": [
+        "Gadget"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Swingshot",
+      "category": [
+        "Gadget"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "EMP Grenade",
+      "category": [
+        "Gadget"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shield Link",
+      "category": [
+        "Gadget"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cable Launcher",
+      "category": [
+        "Gadget"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grindboots",
+      "category": [
+        "Gadget"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gravity Boots",
+      "category": [
+        "Gadget"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Charge Boots",
+      "category": [
+        "Gadget"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dual Vipers",
+      "category": [
+        "Weapons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Magma Cannon",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ace Hardlight Exterminator Card",
+      "category": [
+        "Collectable"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Eviscerator Exterminator Card",
+      "category": [
+        "Collectable"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Reactor Exterminator Card",
+      "category": [
+        "Collectable"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shellshock Exterminator Card",
+      "category": [
+        "Collectable"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gleeman Vox Exterminator Card",
+      "category": [
+        "Collectable"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Slugga Exterminator Card",
+      "category": [
+        "Collectable"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "DreadZone Station Battledome Unlock",
+      "category": [
+        "Planet Unlock"
+      ],
+      "progression": true
+    }
+  ]
+}
