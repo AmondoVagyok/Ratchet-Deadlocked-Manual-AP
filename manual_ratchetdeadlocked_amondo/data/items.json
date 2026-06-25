@@ -7,7 +7,7 @@
       "category": [
         "Weapons"
       ],
-      "useful": true
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -15,7 +15,7 @@
       "category": [
         "Weapons"
       ],
-      "useful": true
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -23,7 +23,7 @@
       "category": [
         "Weapons"
       ],
-      "progression_skip_balancing": true
+      "progression": true
     },
     {
       "count": 1,
@@ -31,7 +31,7 @@
       "category": [
         "Weapons"
       ],
-      "useful": true
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -39,7 +39,7 @@
       "category": [
         "Weapons"
       ],
-      "useful": true
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -47,7 +47,7 @@
       "category": [
         "Weapons"
       ],
-      "useful": true
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -55,16 +55,15 @@
       "category": [
         "Weapons"
       ],
-      "useful": true
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
       "name": "The Harbinger",
       "category": [
-        "Weapons",
         "Harbinger"
       ],
-      "useful": true
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -248,7 +247,7 @@
       "category": [
         "Weapons"
       ],
-      "progression_skip_balancing": true
+      "progression": true
     },
     {
       "count": 1,
@@ -256,7 +255,7 @@
       "category": [
         "Weapons"
       ],
-      "useful": true
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -313,6 +312,14 @@
         "Planet Unlock"
       ],
       "progression": true
+    },
+    {
+      "count": 0,
+      "name": "Difficulty Up Trap",
+      "category": [
+        "Traps"
+      ],
+      "trap": true
     }
   ]
 }

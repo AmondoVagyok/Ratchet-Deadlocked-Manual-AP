@@ -205,7 +205,7 @@
       "category": [
         "Story Mission"
       ],
-      "requires": "|Swingshot|"
+      "requires": "|Swingshot| AND |@Weapons:5|"
     },
     {
       "name": "Kronos: Night Flight",
@@ -293,7 +293,7 @@
       "category": [
         "Story Mission"
       ],
-      "requires": "|EMP Grenade| AND |Grindboots| AND |Cable Launcher|"
+      "requires": "|EMP Grenade|"
     },
     {
       "name": "Shaar: Assault on the Frozen Tundra",
@@ -398,7 +398,7 @@
       "category": [
         "Story Mission"
       ],
-      "requires": ""
+      "requires": "|@Weapons:5|"
     },
     {
       "name": "Crusader Tournament: Zombie Attack",
@@ -534,7 +534,7 @@
       "category": [
         "Story Mission"
       ],
-      "requires": ""
+      "requires": "|@Weapons:5|"
     },
     {
       "name": "Vindicator Tournament: Higher Ground",
@@ -654,7 +654,7 @@
       "category": [
         "Story Mission"
       ],
-      "requires": ""
+      "requires": "|@Weapons:5|"
     },
     {
       "name": "Liberator Tournament: Dynamite Baseball",
@@ -735,7 +735,7 @@
       "category": [
         "Story Mission"
       ],
-      "requires": "|Ace Hardlight Exterminator Card| AND |Eviscerator Exterminator Card| AND |Reactor Exterminator Card| AND |Shellshock Exterminator Card| AND |Gleeman Vox Exterminator Card| AND |Slugga Exterminator Card|"
+      "requires": "|Ace Hardlight Exterminator Card| AND |Eviscerator Exterminator Card| AND |Reactor Exterminator Card| AND |Shellshock Exterminator Card| AND |Gleeman Vox Exterminator Card| AND |Slugga Exterminator Card| AND |@Weapons:5|"
     }
   ]
 }
